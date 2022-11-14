@@ -86,6 +86,8 @@ this.setState({scale:'c',sicaklik});
       </div>
     );
   }
+
+  
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
